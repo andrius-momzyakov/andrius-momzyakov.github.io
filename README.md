@@ -17,7 +17,4 @@ Skills
 - Celery / Redis / rq
 - so on :)
 
-SQL
-- PL/SQL
-
 Projects
