@@ -1,3 +1,5 @@
+# Background
+
 * 1995 - graduated Moscow Aviation Institute, got qualified as engineer-economist.
 * 1995 - 1997 - in the Army.
 * 1997 - 1998 - implementation engineer of a banking system at Diasoft company, Moscow.
