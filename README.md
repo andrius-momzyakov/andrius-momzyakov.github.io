@@ -17,4 +17,4 @@ Skills
 - Celery / Redis / rq
 - so on :)
 
-Projects
+[Projects](projects.md)
